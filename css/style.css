@@ -1,8 +1,8 @@
 body {
-    width: 600px;
+    width: 750px;
     margin: 40px auto;
     font-family: 'trebuchet MS', 'Lucida sans', Arial;
-    font-size: 20px;
+    font-size: 18px;
     color: #444;
     
 }
@@ -87,6 +87,39 @@ table {
     -webkit-border-radius: 0 0 6px 0;
     border-radius: 0 0 6px 0;
 }
+
+
+/*----------------------*/
+
+.ff-b3,.ff-b1,.ff-b4,.ff-b2{ padding:10px 0; margin:0 auto;color:#313131;}
+.ff-b1,.ff-b2{position:relative; padding-left:175px; width:507px;}
+.ff-b1 span.s1,.ff-b2 span.s1{ position:absolute; left:0; top:10px; display:block;font-size:18px;text-align:right;}
+.ff-b1 p.p-1,.ff-b2 p.p-1{white-space: nowrap;font-size:16px;}
+.ff-b1 p.p-1 a{ float:left; display:block;margin:0 0 6px 6px;height:40px; line-height:40px; padding:0 16px; color:#fff;zoom:1;}
+.ff-b1 p.p-1 a:hover{ text-decoration:none}
+.ff-b1 p.p-1 a.a1{ background:#ec6a79}
+.ff-b1 p.p-1 a.a2{ background:#e4c074}
+.ff-b1 p.p-1 a.a3{ background:#e4c074}
+.ff-b1 p.p-1 a.a4{ background:#47c6ff}
+.ff-b1 p.p-1 a.a5{ background:#2fc36e}
+.ff-b1 p.p-1 a.a6{ background:#e59d64}
+.ff-b1 p.p-1 a.a7{ background:#d57fb6}
+.ff-b1 p.p-1 a.a8{ background:#e569b8}
+.ff-b2 p.p-1 a{ float:left; display:block;margin:0 0 6px 6px;}
+.ff-b2 p.p-1 span,.ff-b2 p.p-1 a{background:url(../images/button.jpg) no-repeat 0 0; display:inline-block; height:37px; line-height:37px; color:#000}
+.ff-b2 p.p-1 span{background-position: right 0;padding-right:28px;}
+.ff-b2 p.p-1 a{ padding-left:28px;}
+.ff-b2 p.p-1 a:hover{ text-decoration:none}
+.ff-b3{ height:28px; line-height:28px;}
+.ff-b3 p{background:#ffe8d4;border-left:#ff8d27 solid 2px;padding:0 0;text-indent:0;}
+.ff-b3 span{ background:#fff;display:inline-block; padding:0 10px; font-size:24px; vertical-align:top}
+.ff-b4 ul{ background:url(../images/biao.png) no-repeat 0 0; width:264px; height:55px; line-height:55px; font-size:24px; *line-height:58px; overflow:hidden}
+.ff-b4 li{ float:left}
+.ff-b4 li.f-1{ padding-right:10px; margin-top:13px;height:40px; line-height:40px;font-size:27px; font-weight:bold; color:#fff; width:64px; text-align:center}
+.ff-b4 li.f-2{ color:#f53c3e}
+.ff-b5,.ff-b2{ color:#fff}
+.ff-b5 p.p-1 a{background-position:0 -39px;}
+.ff-b5 p.p-1 span{background-position:right -39px;}
 
 
 
